@@ -1,0 +1,23 @@
+id: AF34D731F
+title: Tathāgatagarbhasūtra
+type: translation
+pechas:
+- I5F6CF79D
+- IF939B779
+- IF6216560
+- I8B6D4FB1
+- IB5B04BB3
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-08 15:26:43.051670
+  last_modified_at: 2023-02-08 15:26:43.051681
+alignment_to_base:
+  I5F6CF79D/293B: '9512'
+  IF939B779/F642: '9512'
+  IF6216560/F690: '9512'
+  I8B6D4FB1/B45A: '9512'
+  IB5B04BB3/DE76: '9512'
